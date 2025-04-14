@@ -1,4 +1,4 @@
-# Improved-RRT-Connect-for-Mobile-Robots
+![image](https://github.com/user-attachments/assets/7b05fb2f-cc0d-4fe3-8aa0-0c22482b7c2d)# Improved-RRT-Connect-for-Mobile-Robots
 
 This repository contains the implementation of **IRRT-Connect**, an improved version of the RRT-Connect path planning algorithm, developed for **ENPM661 - Planning for Autonomous Robots (Project 5)** at the University of Maryland.
 
@@ -26,10 +26,10 @@ Traditional path planning algorithms like RRT and RRT-Connect often suffer from 
 
 | Algorithm     | Avg. Time | Avg. Iterations | Avg. Path Length |
 |---------------|-----------|-----------------|------------------|
-| RRT           | 503       | 490             | 485              |
-| RRT*          | 13.1      | 13.9            | 13.1             |
-| RRT-Connect   | 754       | 747             | 745              |
-| **IRRT-Connect** | **13.1**  | **13.9**          | **13.1**            |
+| RRT           |   0.336     |  1365           |  68.624             |
+| RRT*          | 0.458      | 1585.4            |  66.617            |
+| RRT-Connect   |  0.180     | 742.85             |  62.672             |
+| **IRRT-Connect** | **0.100**  | **585.35**          | **55.241**            |
 
 - 🔄 **Iterations Reduced by 24%**
 - ⏱️ **Planning Time Reduced by 42%**
