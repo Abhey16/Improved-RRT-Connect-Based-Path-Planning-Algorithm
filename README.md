@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b05fb2f-cc0d-4fe3-8aa0-0c22482b7c2d)# Improved-RRT-Connect-for-Mobile-Robots
+# Improved-RRT-Connect-for-Mobile-Robots
 
 This repository contains the implementation of **IRRT-Connect**, an improved version of the RRT-Connect path planning algorithm, developed for **ENPM661 - Planning for Autonomous Robots (Project 5)** at the University of Maryland.
 
