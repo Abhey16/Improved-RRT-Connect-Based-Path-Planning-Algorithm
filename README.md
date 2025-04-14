@@ -24,7 +24,7 @@ Traditional path planning algorithms like RRT and RRT-Connect often suffer from 
 
 ## Results
 
-| Algorithm     | Avg. Time | Avg. Iterations | Avg. Path Length |
+| Algorithm     | Avg. Time (s) | Avg. Iterations | Avg. Path Length (units) |
 |---------------|-----------|-----------------|------------------|
 | RRT           |   0.336     |  1365           |  68.624             |
 | RRT*          | 0.458      | 1585.4            |  66.617            |
